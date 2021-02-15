@@ -1,6 +1,6 @@
 .container{
     text-align: center;
-    margin-top:23px
+    margin-top:60px
 }
 
 table{
@@ -8,32 +8,32 @@ table{
 }
 
 input{
-    border-radius: 21px;
-    border: 5px solid #86d486;
-    font-size:34px;
-    height: 65px;
-    width: 456px;
+    border-radius: 15px;
+    border: 5px solid #cce9cc;
+    font-size:40px;
+    height: 88px;
+    width: 500px;
 }
 
 button{
     border-radius: 20px;
     font-size: 40px;
-    background: #70b8bb;
+    background: #fcfcfc;
     width: 102px;
     height: 90px;
     margin: 6px;
 }
 
 .calculator{ 
-    border: 4px solid #208679;
-    background-color: #6fb87f;
+    border: 4px solid #ecf3eb;
+    background-color: #5ff1ad;
     padding: 23px;
-    border-radius: 53px;
+    border-radius: 35px;
     display: inline-block;
     
 }
 
 h1{
-    font-size: 28px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
